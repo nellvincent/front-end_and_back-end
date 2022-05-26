@@ -4,7 +4,7 @@
   "description": "My first full project with Front-end and Back-end.",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon ./Server/index.js ./Client/index.js"
+    "dev": "nodemon ./Server/index.js ./Client/index.js"
   },
   "repository": {
     "type": "git",
