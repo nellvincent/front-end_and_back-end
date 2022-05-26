@@ -1,0 +1,22 @@
+{
+  "name": "front-end_and_back-end",
+  "version": "1.0.0",
+  "description": "My first full project with Front-end and Back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ./Server/index.js ./Client/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nellvincent/front-end_and_back-end.git"
+  },
+  "author": "nellvincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nellvincent/front-end_and_back-end/issues"
+  },
+  "homepage": "https://github.com/nellvincent/front-end_and_back-end#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
